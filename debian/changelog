@@ -1,4 +1,4 @@
-fastrpc (1.0.2-1) UNRELEASED; urgency=medium
+fastrpc (1.0.2-1~a1) unstable; urgency=medium
 
   * New upstream release.
   * d/p/dlopen-abi-version: drop (fixed upstream).
@@ -12,8 +12,9 @@ fastrpc (1.0.2-1) UNRELEASED; urgency=medium
       + d/fastrpc-support.install: do not install guess-dsp.sh
       + d/guess-dsp.sh: remove
       + d/copyright: drop guess-dsp.sh licensing information
+  * "Backport" to Debusine archive.
 
- -- Robie Basak <robie.basak@oss.qualcomm.com>  Tue, 13 Jan 2026 12:34:53 +0000
+ -- Robie Basak <robie.basak@oss.qualcomm.com>  Fri, 16 Jan 2026 16:08:51 +0000
 
 fastrpc (1.0.0-1) unstable; urgency=medium
 
