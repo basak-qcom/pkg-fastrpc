@@ -1,3 +1,10 @@
+fastrpc (1.0.2-1~a2) unstable; urgency=medium
+
+  * Re-add test suite temporarily for debusine.debian.net pending proper fix
+  * upstream before it can go into Debian itself.
+
+ -- Robie Basak <robie.basak@oss.qualcomm.com>  Mon, 19 Jan 2026 15:20:41 +0000
+
 fastrpc (1.0.2-1~a1) unstable; urgency=medium
 
   * New upstream release.
